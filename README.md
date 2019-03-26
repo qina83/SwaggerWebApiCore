@@ -1,4 +1,4 @@
 # SwaggerWebApiCore
 
 ## swagger doc link
-<host>:<port>/swagger
+host:port/swagger
